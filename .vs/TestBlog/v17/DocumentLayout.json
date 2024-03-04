@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\TestBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|d:\\code\\testblog\\testblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|solutionrelative:testblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|d:\\code\\testblog\\testblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|solutionrelative:testblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|d:\\code\\testblog\\testblog\\models\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|solutionrelative:testblog\\models\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|d:\\code\\testblog\\testblog\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|solutionrelative:testblog\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|d:\\code\\testblog\\testblog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|solutionrelative:testblog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|d:\\code\\testblog\\testblog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CCF161-4B48-4B22-86B0-1F0F07AA6743}|TestBlog\\TestBlog.csproj|solutionrelative:testblog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code\\TestBlog\\TestBlog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestBlog\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\code\\TestBlog\\TestBlog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TestBlog\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T15:03:17.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\code\\TestBlog\\TestBlog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestBlog\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\code\\TestBlog\\TestBlog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestBlog\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA+wBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:01:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\code\\TestBlog\\TestBlog\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "TestBlog\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\code\\TestBlog\\TestBlog\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "TestBlog\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAzwBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:56:06.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "D:\\code\\TestBlog\\TestBlog\\Models\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "TestBlog\\Models\\BlogDbContext.cs",
+              "ToolTip": "D:\\code\\TestBlog\\TestBlog\\Models\\BlogDbContext.cs",
+              "RelativeToolTip": "TestBlog\\Models\\BlogDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:53:29.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\code\\TestBlog\\TestBlog\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "TestBlog\\Models\\Blog.cs",
+              "ToolTip": "D:\\code\\TestBlog\\TestBlog\\Models\\Blog.cs",
+              "RelativeToolTip": "TestBlog\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:53:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\code\\TestBlog\\TestBlog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TestBlog\\Models\\Category.cs",
+              "ToolTip": "D:\\code\\TestBlog\\TestBlog\\Models\\Category.cs",
+              "RelativeToolTip": "TestBlog\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:54:56.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
